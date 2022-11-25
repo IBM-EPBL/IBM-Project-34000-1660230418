@@ -1,7 +1,7 @@
 # IBM-Project-34000-1660230418
 Skill / Job Recommender Application
-![image](https://user-images.githubusercontent.com/113303537/204016056-d98c434f-63cd-4fb4-a19c-83a4d9b95ac1.png)
 
+![image](https://user-images.githubusercontent.com/113303537/204016258-c7fd8fe5-0c31-45ac-b70e-c8640e3413d9.png)
 Project ID
 
 WEB APPLICATION CAPABLE OF DISPLAYING THE CURRENT JOB OPENINGS BASED ON THE SKILLSET OF THE USERS.
